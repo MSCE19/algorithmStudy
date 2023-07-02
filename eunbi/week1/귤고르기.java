@@ -22,7 +22,7 @@ class Solution {
         
         list.sort(Comparator.reverseOrder());        
              
-        int i = 0;
+        int i = 0;  
         while(k>0){
             k = k - list.get(i);
             answer++; 
