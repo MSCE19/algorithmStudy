@@ -13,7 +13,7 @@ class Solution {
                         .collect(Collectors.toList()); //list·Î º¯È¯      
         
         HashMap<Integer, Integer> map = new HashMap<>();
-        
+         
         for (int i = 0; i < tangerine.length; i++)
             map.put(tangerine[i], map.getOrDefault(tangerine[i], 0) + 1);
         
@@ -29,5 +29,6 @@ class Solution {
             i++;
         }
         return answer;
+        
     }
 }
