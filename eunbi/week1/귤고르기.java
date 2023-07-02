@@ -27,7 +27,7 @@ class Solution {
             k = k - list.get(i);
             answer++; 
             i++;
-        }
+        } 
         return answer;
         
     }
