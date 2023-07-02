@@ -20,7 +20,7 @@ class Solution {
         
         List<Integer> list = new ArrayList<>(map.values());
         
-        list.sort(Comparator.reverseOrder());        
+        list.sort(Comparator.reverseOrder());          
              
         int i = 0;  
         while(k>0){
