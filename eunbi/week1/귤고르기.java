@@ -25,7 +25,7 @@ class Solution {
         int i = 0;
         while(k>0){
             k = k - list.get(i);
-            answer++;
+            answer++; 
             i++;
         }
         return answer;
