@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Solution {
     public int[] solution(int[] answers) {
         int[] answer;
@@ -13,7 +14,7 @@ class Solution {
         if(list.get(0) == list.get(2)){
             answer = new int[] {1,2,3};
         }
-        else if(list.get(0) != list.get(1))
+        else if(list.get(0).intValue() != list.get(1).intValue())
             answer = new int[] {getKey(map,list.get(0))};
         else if(getKey(map,list.get(2)) == 1)
             answer = new int[] {2,3};
