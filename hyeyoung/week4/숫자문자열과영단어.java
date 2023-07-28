@@ -1,4 +1,4 @@
-package hyeyoung;
+package hyeyoung.week4;
 
 public class 숫자문자열과영단어 {
 }
