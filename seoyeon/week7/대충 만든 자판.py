@@ -16,3 +16,5 @@ def solution(keymap, targets):
             tmp += keytable[j]
         answer.append(tmp)
     return answer
+
+# https://blog.naver.com/rabbii11/223182609503
