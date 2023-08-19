@@ -13,3 +13,5 @@ def solution(people, limit):
             people.pop()
         answer += 1
     return answer
+
+# https://blog.naver.com/rabbii11/223112076333
