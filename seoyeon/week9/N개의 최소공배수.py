@@ -7,3 +7,4 @@ def solution(arr):
         arr.append(cal(arr.pop(), arr.pop()))
         if len(arr) == 1 :
             return arr[0]
+        
