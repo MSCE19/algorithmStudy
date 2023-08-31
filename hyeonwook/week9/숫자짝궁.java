@@ -7,6 +7,7 @@ public class 숫자짝궁 {
     public static void main(String[] args) {
         String X = "100";
         String Y = "100";
+
         System.out.println(solution(X, Y));
     }
 
