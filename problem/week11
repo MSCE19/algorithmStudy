@@ -1,0 +1,3 @@
+1. [푸드파이트 대회 Lv.1 68%](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+2. [명예의 전당 (1) Lv.1 65%](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+3. [이모티콘 할인 행사 Lv.2 34%](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
