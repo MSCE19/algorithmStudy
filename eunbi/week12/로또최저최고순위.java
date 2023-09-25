@@ -16,7 +16,7 @@ class Solution {
             if(mapWin.containsKey(i))
                 rank--;
             if(i==0)
-                zero++;
+                zero++; 
         }
         if(rank==7)
             rank = 6;
