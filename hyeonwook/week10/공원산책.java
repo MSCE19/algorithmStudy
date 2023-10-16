@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Arrays;
 
 public class 공원산책 {
-    static char[][] map;
+    static char[][]map;
     static int[] answer;
     static ArrayDeque<Route> dq = new ArrayDeque<>();
 
